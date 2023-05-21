@@ -16,7 +16,11 @@
     <a href="#Contact">Contact</a>
 </p>
 
-## Languages and Frameworks
+<div align="center">
+
+ ## Languages and Frameworks
+
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=007ACC" />
@@ -34,19 +38,29 @@
 
 <hr>
 
-- [Dart](https://dart.dev/)
-- [Flutter](https://flutter.dev/)
-- [Laravel](https://laravel.com/)
-- [PHP](https://www.php.net/)
-- [JavaScript](https://www.javascript.com/)
-- [MySQL](https://www.mysql.com/)
-- [MongoDB](https://www.mongodb.com/)
-- [HTML](https://html.com/)
-- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
-- [SASS](https://sass-lang.com/)
-- [Bootstrap](https://getbootstrap.com/)
+<div align="center">
 
-## Tools
+[Dart](https://dart.dev/) -
+[Flutter](https://flutter.dev/) -
+[Laravel](https://laravel.com/) -
+[PHP](https://www.php.net/) -
+[JavaScript](https://www.javascript.com/) -
+[MySQL](https://www.mysql.com/) -
+[MongoDB](https://www.mongodb.com/) -
+[HTML](https://html.com/) -
+[CSS](https://www.w3.org/Style/CSS/Overview.en.html) -
+[SASS](https://sass-lang.com/) -
+[Bootstrap](https://getbootstrap.com/)
+
+</div>
+
+
+
+<div align="center">
+
+ ## Tools
+
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=007ACC" />
@@ -67,24 +81,31 @@
 </div>
 
 <hr>
+<div align="center">
 
-- [Docker](https://www.docker.com/)
-- [Postman](https://www.postman.com/)
-- [VSCode](https://code.visualstudio.com/)
-- [AndroidStudio](https://developer.android.com/studio)
-- [Xcode](https://developer.apple.com/xcode/)
-- [phpStorm](https://www.jetbrains.com/phpstorm/)
-- [webStorm](https://www.jetbrains.com/webstorm/)
-- [Git](https://git-scm.com/)
-- [Trello](https://trello.com/)
-- [Slack](https://slack.com/)
-- [MicrosoftTeams](https://www.microsoft.com/en-ww/microsoft-365/microsoft-teams/group-chat-software)
-- [Zoom](https://zoom.us/)
-- [GoogleMeet](https://meet.google.com/)
-- [Figma](https://www.figma.com/)
-- [AdobeXD](https://www.adobe.com/products/xd.html)
+[Docker](https://www.docker.com/) -
+[Postman](https://www.postman.com/) -
+[VSCode](https://code.visualstudio.com/) -
+[AndroidStudio](https://developer.android.com/studio) -
+[Xcode](https://developer.apple.com/xcode/) -
+[phpStorm](https://www.jetbrains.com/phpstorm/) -
+[webStorm](https://www.jetbrains.com/webstorm/) -
+[Git](https://git-scm.com/) -
+[Trello](https://trello.com/) -
+[Slack](https://slack.com/) -
+[MicrosoftTeams](https://www.microsoft.com/en-ww/microsoft-365/microsoft-teams/group-chat-software) -
+[Zoom](https://zoom.us/) -
+[GoogleMeet](https://meet.google.com/) -
+[Figma](https://www.figma.com/) -
+[AdobeXD](https://www.adobe.com/products/xd.html)
 
-## OS
+</div>
+
+<div align="center">
+
+ ## Operating Systems
+
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=007ACC" />
@@ -94,13 +115,21 @@
 
 <hr>
 
-- [Windows](https://www.microsoft.com/en-us/windows)
-- [MacOS](https://www.apple.com/macos)
-- [Ubuntu](https://ubuntu.com/)
+<div align="center">
 
-## Projects
+[Windows](https://www.microsoft.com/en-us/windows) -
+[MacOS](https://www.apple.com/macos) -
+[Ubuntu](https://ubuntu.com/)
 
-- [laravel-ecommerce](https://github.com/MahmoudAlmalah-ENG/ecomerce)   (Laravel)
+</div>
+
+<div align="center">
+
+ ## Projects
+
+</div>
+
+- [ecommerce](https://github.com/MahmoudAlmalah-ENG/ecomerce)   (Laravel)
   - this project is a part of my graduation from Edraak Academy.
 - [weather-journal-app](https://github.com/MahmoudAlmalah-ENG/weather-journal-app)  (Udacity)
   - this project is a part of Udacity Front End Web Developer Nanodegree Program.
@@ -110,7 +139,11 @@
   - this project is a part of my interview with a company.
 
 
-## Contact
+<div align="center">
+    
+## Contact Me
+
+</div>
 
 - [Email](mailto:malmalah04@gmail.com) : malmalah04@gmail.com
 - [Phone](tel:+201026475912) : +201026475912
