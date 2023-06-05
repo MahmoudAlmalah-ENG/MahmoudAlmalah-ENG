@@ -39,15 +39,11 @@
   <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=vscode&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=androidstudio&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/-phpStorm-05122A?style=flat&logo=phpstorm&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/-webStorm-05122A?style=flat&logo=webstorm&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/-MicrosoftTeams-05122A?style=flat&logo=microsoftteams&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/-Zoom-05122A?style=flat&logo=zoom&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/-GoogleMeet-05122A?style=flat&logo=googlemeet&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobexd&logoColor=007ACC" />
 </div>
