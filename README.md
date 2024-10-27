@@ -18,8 +18,8 @@ class About extends Me
     {
         return [
             'work' => [
-                'BackEnd Laravel ',
-                'Laravel Support ',
+                'BackEnd Laravel @Horizon-Riyadh',
+                'Laravel Support @Visooft',
                 'Freelancer'
             ],
             'education' => [
