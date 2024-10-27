@@ -52,7 +52,7 @@ class About extends Me
 ## Connect with me:
 
 [<img align="left" alt="MahmoudAlmalah | LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="MahmoudAlmalah | Facebook" src="https://img.icons8.com/color/48/000000/linkedin.png" />][Facebook]
+[<img align="left" alt="MahmoudAlmalah | Facebook" src="https://img.icons8.com/color/48/000000/facebook.png" />][Facebook]
 
 <br />
 <br />
